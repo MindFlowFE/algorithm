@@ -8,9 +8,9 @@
 
 3. [剑指 Offer II 003. 前 n 个数字二进制中 1 的个数（简单）](https://leetcode-cn.com/problems/w3tCBm/)
 
-4. [剑指 Offer II 004. 只出现一次的数字（中等）](https://leetcode-cn.com/problems/WGki4K/)
+4. [136. 只出现一次的数字（简单）HOT 100](https://leetcode.cn/problems/single-number/)
 
-5. [剑指 Offer II 005. 单词长度的最大乘积（中等）](https://leetcode-cn.com/problems/aseY1I/)
+5. [461. 汉明距离（简单）HOT 100](https://leetcode.cn/problems/hamming-distance/)
 
 6. [338. 比特位计数（简单）HOT 100](https://leetcode-cn.com/problems/counting-bits/)
 
@@ -34,3 +34,8 @@
 13. [剑指 Offer II 012. 左右两边子数组的和相等（简单）](https://leetcode-cn.com/problems/tvdfij/)
 
 14. [剑指 Offer II 013. 二维子矩阵的和（中等）](https://leetcode-cn.com/problems/O4NDxx/)
+
+#### 进阶
+1. [剑指 Offer II 004. 只出现一次的数字（中等）](https://leetcode-cn.com/problems/WGki4K/)
+
+2. [剑指 Offer II 005. 单词长度的最大乘积（中等）](https://leetcode-cn.com/problems/aseY1I/)
